@@ -1,6 +1,7 @@
 # WRR-Manuscript-Lake-Mendocino-EFO-Model
 Repository for the the Water Resources Research Manuscript titled "Forecast Informed Reservoir Operations Using Ensemble Streamflow Predictions for a Multi-Purpose Reservoir in Northern California".
 The contents of this repository include code and input data sets developed in Matlab for the model developed for the study.
+Versions of this code are permanently archived here: [![DOI](https://zenodo.org/badge/706760140.svg)](https://zenodo.org/doi/10.5281/zenodo.10019300)  
 
 The following is a short description of the contents of this repository.
 RunModels.m - script which assembles and runs the model alternatives (Existing Operations, Ensemble Forecast Operations and Perfect Forecast Operations) evaluated in the study.
