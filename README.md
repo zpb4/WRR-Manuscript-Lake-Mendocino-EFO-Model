@@ -8,4 +8,4 @@ RunModels.m - script which assembles and runs the model alternatives (Existing O
 Inp - folder that includes the model input data sets for the model alternatives.
 Results - folder that includes the simulation results in comma separated format (csv) for the model alternatives.
 
-If there are any questions please leave comments in this repository or contact Chris Delaney of Sonoma Water at chris.delaney@scwa.ca.gov.
+If there are any questions please leave comments in this repository or contact Chris Delaney of University of San Diego - Scripps Institute of Oceanography at cjdelaney@ucsd.edu
